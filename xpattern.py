@@ -1,4 +1,4 @@
-n=int(input("Enter the num : "))
+n=int(input("Enter an even num : "))
 if n%2==0:
     fr=n//2
     inf=fr+1
