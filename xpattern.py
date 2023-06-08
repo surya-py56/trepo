@@ -27,7 +27,7 @@ if n%2==0:
         print(inno)
         inno+=1
 else:
-    print("please enter an even number :")
+    print("please enter an even number    :")
     
     
 
